@@ -142,7 +142,7 @@ section{ /*style for the section*/
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	background-size: 100%;
+	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment:fixed;
