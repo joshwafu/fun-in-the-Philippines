@@ -1,0 +1,524 @@
+@media (max-width:2560px) {
+    #bigger {
+        width:70px;
+    }
+	#smaller{
+		width: 50px;
+	}
+	.sidebar a{
+		padding:20px;
+		font-size: 20px;
+	}
+}
+
+@media (max-width:1440px) {
+    #bigger {
+        width:60px;
+    }
+	#smaller{
+		width: 30px;
+	}
+	.sidebar a{
+		padding:9px;
+		font-size: 15px;
+	}
+}
+
+@media (max-width:1024px) {
+	#bigger {
+        width:50px;
+    }
+	#smaller{
+		width: 20px;
+	}
+	.sidebar a{
+		padding:8px;
+		font-size: 15px;
+	}
+	#about h1{
+		font-size:5em;
+	}
+	#about div.desc {
+		font-size:.7em;
+	}
+    #history .section-inner p{
+		margin-left:50px;
+		margin-right:50px;
+	}
+	#environment .section-inner p{
+		margin-left:50px;
+		margin-right:50px;
+	}
+	#demog .image {
+		width:300px;
+	}
+	#demog .overlay {
+		width:300px;
+	}
+	#demog .text p{
+		font-size: 7px;
+	}
+	#demog .text h1{
+		font-size: 12px;
+	}
+	#culture .section-inner p{
+		margin-left:50px;
+		margin-right:50px;
+	}
+	#tour h1{
+		font-size:5em;
+	}
+	#tour div.desc {
+		font-size:.7em;
+	}
+	#luzon .slideshow-container img{
+		width:800px;
+	}
+	#luzon .desc h3{
+		font-size:15px;
+	}
+	#luzon .desc p{
+		font-size:10px;		
+	}
+	#visayas .slideshow-container2 img{
+		width:800px;
+	}
+	#visayas .desc h3{
+		font-size:15px;
+	}
+	#visayas .desc p{
+		font-size:10px;		
+	}
+	#mindanao .slideshow-container3 img{
+		width:800px;
+	}
+	#mindanao .desc h3{
+		font-size:15px;
+	}
+	#mindanao .desc p{
+		font-size:10px;		
+	}
+}
+
+@media (max-width:768px) {
+    #bigger {
+        width:30px;
+    }
+	#smaller{
+		width: 15px;
+	}
+	.sidebar a{
+		padding:6px;
+		font-size: 12px;
+	}
+	#about h1{
+		font-size:5em;
+	}
+	#about div.desc {
+		font-size:.5em;
+	}
+    #history .section-inner p{
+		font-size:10px;
+		margin-left:50px;
+		margin-right:50px;
+	}
+	#environment .section-inner p{
+		font-size:10px;
+		margin-left:50px;
+		margin-right:50px;
+	}
+	#demog .image {
+		width:300px;
+	}
+	#demog .overlay {
+		width:300px;
+	}
+	#demog .text p{
+		font-size: 7px;
+	}
+	#demog .text h1{
+		font-size: 12px;
+	}
+	#culture .section-inner p{
+		font-size:10px;
+		margin-left:50px;
+		margin-right:50px;
+	}
+	#tour h1{
+		font-size:5em;
+	}
+	#tour div.desc {
+		font-size:.5em;
+	}
+	#luzon .slideshow-container img{
+		width:600px;
+	}
+	#luzon .desc h3{
+		font-size:12px;
+	}
+	#luzon .desc p{
+		font-size:8px;		
+	}
+	#visayas .slideshow-container2 img{
+		width:600px;
+	}
+	#visayas .desc h3{
+		font-size:12px;
+	}
+	#visayas .desc p{
+		font-size:8px;		
+	}
+	#mindanao .slideshow-container3 img{
+		width:600px;
+	}
+	#mindanao .desc h3{
+		font-size:12px;
+	}
+	#mindanao .desc p{
+		font-size:8px;		
+	}
+}
+
+@media (max-width:426px) {
+    #bigger {
+        width:20px;
+    }
+	#smaller{
+		width: 10px;
+	}
+	.header{
+		height:150px;
+	}
+	.logo img{
+		height:50px;
+	}
+	.datetime{
+		width:100px;
+	}
+	.date{
+		font-size:5px;
+	}
+	.time{
+		font-size:10px;
+	}
+	#period{
+		font-size:10px;
+	}
+	.openbtn { /*style for the open button*/
+		font-size:10px;
+	}
+	.sidebar a{
+		padding:10px;
+		font-size: 12px;
+	}
+	#about h1{
+		font-size:3em;
+	}
+	#about div.desc {
+		padding: 1px;
+		font-size:4px;
+	}
+	#history .section-inner h1{
+		font-size:30px;
+	}
+    #history .section-inner p{
+		font-size:8px;
+		margin-left:1px;
+		margin-right:1px;
+	}
+	#environment .section-inner h1{
+		font-size:30px;
+	}
+	#environment .section-inner p{
+		font-size:8px;
+		margin-left:1px;
+		margin-right:1px;
+	}
+	#demog .image {
+		width:200px;
+	}
+	#demog .overlay {
+		width:200px;
+	}
+	#demog .text p{
+		font-size: 5px;
+	}
+	#demog .text h1{
+		font-size: 8px;
+	}
+	#demog h1{
+		font-size:30px;
+	}
+	#culture .section-inner h1{
+		font-size:30px;
+	}
+	#culture .section-inner p{
+		font-size:8px;
+		margin-left:1px;
+		margin-right:1px;
+	}
+	#tour h1{
+		font-size:3em;
+	}
+	#tour div.desc {
+		padding: 1px;
+		font-size:4px;
+	}
+	#luzon .slideshow-container img{
+		width:350px;
+	}
+	#luzon h1{
+		font-size:30px;
+	}
+	#luzon .desc h3{
+		font-size:8px;
+	}
+	#luzon .desc p{
+		font-size:4px;		
+	}
+	#visayas h1{
+		font-size:30px;
+	}
+	#visayas .slideshow-container2 img{
+		width:350px;
+	}
+	#visayas .desc h3{
+		font-size:8px;
+	}
+	#visayas .desc p{
+		font-size:4px;		
+	}
+	#mindanao h1{
+		font-size:30px;
+	}
+	#mindanao .slideshow-container3 img{
+		width:350px;
+	}
+	#mindanao .desc h3{
+		font-size:8px;
+	}
+	#mindanao .desc p{
+		font-size:4px;		
+	}
+	#myBtn2 {
+		font-size:8px
+	}
+	.cell h2{
+		font-size: 12px;
+	}
+	.cell a,p{
+		font-size: 6px;
+	}
+	#luzon .prev, .next a{
+		font-size:6px;
+		padding:5px;
+	}
+	#luzon .next, .prev a{
+		font-size:6px;
+		padding:5px;
+	}
+	#visayas .prev2, .next2 a{
+		font-size:6px;
+		padding:5px;
+	}
+	#visayas .next2, .prev2 a{
+		font-size:6px;
+		padding:5px;
+	}
+	#mindanao .prev3, .next3 a{
+		font-size:6px;
+		padding:5px;
+	}
+	#mindanao .next3, .prev3 a{
+		font-size:6px;
+		padding:5px;
+	}
+	#luzon .numbertext{
+		font-size:10px
+	}
+	#visayas .numbertext{
+		font-size:10px
+	}
+	#mindanao .numbertext{
+		font-size:10px
+	}
+	section{
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-attachment:fixed;
+	}
+}
+
+@media (max-width:375px) {
+    #bigger {
+        width:20px;
+    }
+	#smaller{
+		width: 10px;
+	}
+	.header{
+		height:150px;
+	}
+	.logo img{
+		height:50px;
+	}
+	.datetime{
+		width:100px;
+	}
+	.date{
+		font-size:5px;
+	}
+	.time{
+		font-size:10px;
+	}
+	#period{
+		font-size:10px;
+	}
+	.openbtn { /*style for the open button*/
+		font-size:10px;
+	}
+	.sidebar a{
+		padding:10px;
+		font-size: 12px;
+	}
+	#about h1{
+		font-size:3em;
+	}
+	#about div.desc {
+		padding: 1px;
+		font-size:4px;
+	}
+	#history .section-inner h1{
+		font-size:30px;
+	}
+    #history .section-inner p{
+		font-size:8px;
+		margin-left:1px;
+		margin-right:1px;
+	}
+	#environment .section-inner h1{
+		font-size:30px;
+	}
+	#environment .section-inner p{
+		font-size:8px;
+		margin-left:1px;
+		margin-right:1px;
+	}
+	#demog .image {
+		width:200px;
+	}
+	#demog .overlay {
+		width:200px;
+	}
+	#demog .text p{
+		font-size: 5px;
+	}
+	#demog .text h1{
+		font-size: 8px;
+	}
+	#demog h1{
+		font-size:30px;
+	}
+	#culture .section-inner h1{
+		font-size:30px;
+	}
+	#culture .section-inner p{
+		font-size:8px;
+		margin-left:1px;
+		margin-right:1px;
+	}
+	#tour h1{
+		font-size:3em;
+	}
+	#tour div.desc {
+		padding: 1px;
+		font-size:4px;
+	}
+	#luzon .slideshow-container img{
+		width:350px;
+	}
+	#luzon h1{
+		font-size:30px;
+	}
+	#luzon .desc h3{
+		font-size:8px;
+	}
+	#luzon .desc p{
+		font-size:4px;		
+	}
+	#visayas h1{
+		font-size:30px;
+	}
+	#visayas .slideshow-container2 img{
+		width:350px;
+	}
+	#visayas .desc h3{
+		font-size:8px;
+	}
+	#visayas .desc p{
+		font-size:4px;		
+	}
+	#mindanao h1{
+		font-size:30px;
+	}
+	#mindanao .slideshow-container3 img{
+		width:350px;
+	}
+	#mindanao .desc h3{
+		font-size:8px;
+	}
+	#mindanao .desc p{
+		font-size:4px;		
+	}
+	#myBtn2 {
+		font-size:8px
+	}
+	.cell h2{
+		font-size: 12px;
+	}
+	.cell a,p{
+		font-size: 6px;
+	}
+	#luzon .prev, .next a{
+		font-size:6px;
+		padding:5px;
+	}
+	#luzon .next, .prev a{
+		font-size:6px;
+		padding:5px;
+	}
+	#visayas .prev2, .next2 a{
+		font-size:6px;
+		padding:5px;
+	}
+	#visayas .next2, .prev2 a{
+		font-size:6px;
+		padding:5px;
+	}
+	#mindanao .prev3, .next3 a{
+		font-size:6px;
+		padding:5px;
+	}
+	#mindanao .next3, .prev3 a{
+		font-size:6px;
+		padding:5px;
+	}
+	#luzon .numbertext{
+		font-size:10px
+	}
+	#visayas .numbertext{
+		font-size:10px
+	}
+	#mindanao .numbertext{
+		font-size:10px
+	}
+	section{
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-attachment:fixed;
+	}
+}
+
+.col-12 {width: 100%;}
