@@ -521,15 +521,15 @@
 	}
 }
 
-@media (max-width:1400px) {
+@media (max-width:998px) {
     #bigger {
-        width:40px;
+        width:25px;
     }
 	#smaller{
-		width: 20px;
+		width: 15px;
 	}
 	.sidebar a{
-		padding:5px;
+		padding:6px;
 		font-size: 12px;
 	}
 }
