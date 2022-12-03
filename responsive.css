@@ -22,6 +22,10 @@
 		padding:9px;
 		font-size: 15px;
 	}
+	#videos iframe {
+		width:750;
+		height:500;
+	}
 }
 
 @media (max-width:1024px) {
@@ -97,6 +101,10 @@
 	}
 	#mindanao .desc p{
 		font-size:10px;		
+	}
+	#videos iframe {
+		width:750;
+		height:500;
 	}
 }
 
@@ -176,6 +184,10 @@
 	}
 	#mindanao .desc p{
 		font-size:8px;		
+	}
+	#videos iframe {
+		width:500;
+		height:250;
 	}
 }
 
@@ -342,11 +354,9 @@
 	#mindanao .numbertext{
 		font-size:10px
 	}
-	section{
-		background-size: cover;
-		background-position: center center;
-		background-repeat: no-repeat;
-		background-attachment:fixed;
+	#videos iframe {
+		width:400;
+		height:200;
 	}
 }
 
@@ -513,11 +523,9 @@
 	#mindanao .numbertext{
 		font-size:10px
 	}
-	section{
-		background-size: cover;
-		background-position: center center;
-		background-repeat: no-repeat;
-		background-attachment:fixed;
+	#videos iframe {
+		width:400;
+		height:200;
 	}
 }
 
