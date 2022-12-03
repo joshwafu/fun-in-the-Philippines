@@ -521,4 +521,17 @@
 	}
 }
 
+@media (max-width:1030px) {
+    #bigger {
+        width:40px;
+    }
+	#smaller{
+		width: 20px;
+	}
+	.sidebar a{
+		padding:5px;
+		font-size: 12px;
+	}
+}
+
 .col-12 {width: 100%;}
